@@ -16,7 +16,7 @@ Created an automated test script using Java, Selenium, and TestNG to perform the
 - WebDriver for Selenium (e.g., ChromeDriver, GeckoDriver) downloaded and accessible.
 - TestNG is added in the pom.xml.
 
-## See the test files [https://github.com/Istear/Genesys/tree/main/src/test/java](Click Here). 
+## See the test files [Click Here](https://github.com/Istear/Genesys/tree/main/src/test/java). 
 
 ## Setup
 
