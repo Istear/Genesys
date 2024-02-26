@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-26T17:36:51 BDT" name="Default suite" finished-at="2024-02-26T17:37:25 BDT" duration-ms="34305">
+    <groups>
+    </groups>
+    <test started-at="2024-02-26T17:36:51 BDT" name="Default test" finished-at="2024-02-26T17:37:25 BDT" duration-ms="34305">
+      <class name="testCase.LoginAndAddCart">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:testCase.LoginAndAddCart@3e8c3cb]" started-at="2024-02-26T17:36:51 BDT" name="initializeDriver" finished-at="2024-02-26T17:36:55 BDT" duration-ms="4214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="navigate()[pri:1, instance:testCase.LoginAndAddCart@3e8c3cb]" started-at="2024-02-26T17:36:55 BDT" name="navigate" description="Navigate to the website" finished-at="2024-02-26T17:37:03 BDT" duration-ms="7901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:2, instance:testCase.LoginAndAddCart@3e8c3cb]" started-at="2024-02-26T17:37:03 BDT" name="logIn" description="Sign In" data-provider="LoginData" finished-at="2024-02-26T17:37:10 BDT" duration-ms="6137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[userone@user.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user123@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="addToCart()[pri:3, instance:testCase.LoginAndAddCart@3e8c3cb]" started-at="2024-02-26T17:37:10 BDT" name="addToCart" description="Add to cart" finished-at="2024-02-26T17:37:25 BDT" duration-ms="15240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testCase.LoginAndAddCart@3e8c3cb]" started-at="2024-02-26T17:37:25 BDT" name="quitBrowser" finished-at="2024-02-26T17:37:25 BDT" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testCase.LoginAndAddCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
