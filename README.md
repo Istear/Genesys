@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create an automated test script using Java, Selenium, and TestNG to perform the following actions on a website: [https://magento.softwaretestingboard.com/](https://magento.softwaretestingboard.com/)
+Created an automated test script using Java, Selenium, and TestNG to perform the following actions on a website: [https://magento.softwaretestingboard.com/](https://magento.softwaretestingboard.com/)
 
 1. Navigate to the website.
 2. Log in to the website.
@@ -11,13 +11,14 @@ Create an automated test script using Java, Selenium, and TestNG to perform the 
 
 ## Prerequisites
 
-- Java installed on your machine.
-- Maven installed on your machine.
+- Java installed on the machine.
+- Maven installed on the machine.
 - WebDriver for Selenium (e.g., ChromeDriver, GeckoDriver) downloaded and accessible.
+- TestNG is added in the pom.xml.
 
 ## Setup
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/automated-test.git
+   git clone https://github.com/Istear/Genesys.git)https://github.com/Istear/Genesys.git
